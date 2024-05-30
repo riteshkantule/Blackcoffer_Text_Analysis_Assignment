@@ -81,7 +81,7 @@ pip install pandas requests beautifulsoup4 nltk textblob openpyxl
 - **positive-words.txt**: List of positive words.
 - **negative-words.txt**: List of negative words.
 - **StopWords**: Directory containing stop word files.
-- **Output_Data_Structure.xlsx**: The generated output Excel file.
+- **Output.xlsx**: The generated output Excel file.
 
 ### Note
 Ensure all paths in the script are correctly set to the locations of your input files and directories.
