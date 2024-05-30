@@ -67,12 +67,13 @@ pip install pandas requests beautifulsoup4 nltk textblob openpyxl
 2. **Run the Script:**
    Execute the script using Python:
    ```sh
-   python script.py
+   python blackcoffer_test_assignment.py
+
    ```
    Ensure the input file `Input.xlsx` and dictionary files are placed in the correct directories as specified in the script. Adjust the paths in the script if necessary.
 
 3. **Check the Output:**
-   After execution, the output file `Output_Data_Structure.xlsx` will be generated in the working directory, containing the analyzed data for each article.
+   After execution, the output file `Output.xlsx` will be generated in the working directory, containing the analyzed data for each article.
 
 ### File Structure
 - **script.py**: The Python script containing the code.
